@@ -27,11 +27,15 @@ The major takeways observed after the creation of the table were the following
 ## Mentorship Eligibility
 
 To prepare for the incoming wave of retirement our boss suggested to create a mentorship program to train the next generation of employee and the possible new hires.
+
 We can observe the following points based on our table:
 - 1549 employees are eligible for the mentorship program
 - none of the managers retiring is eligible for the mentorship program
 - less than 2% of the staff retiring are eligible for the mentorship program
 - senior level employees make up for most of the eligible mentor
+
+![image](https://user-images.githubusercontent.com/99924850/164141681-09ec8d6d-db6f-4a05-953e-4a27ad680dec.png)
+
 
 # Summary
 
