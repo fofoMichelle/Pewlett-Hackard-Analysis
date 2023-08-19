@@ -44,5 +44,5 @@ The data generated suggest that Pewlett Hackard will have some challenges with t
 We can extend the mentorship eligibility by an additional year which can be done by modifying one line on the query we used to create the mentorship program like below
 **And(e.birth_date Between '1964-01-01' AND '1965-12-31')***
 This will make the workload of the mentors a bit manageable
-We can also create a new table to higlight the employees that will be eligible to a manager position based on their seniority and performances and to do that we would need a new set of data that would higlight the performance of the current employees and filter it by how many years they are left working before retiring which in one way will give the company a way of replacing the retiring managers.
+We can also create a new table to higlight the employees that will be eligible to a manager position based on their seniority and performances and to do that we would need a new set of data that would higlight the performance of the current employees and filter it by how many years they are left working before retiring which in one way will give the company a way of replacing the retiring managers and with that we solve the issue of high turn over within the company.
 
